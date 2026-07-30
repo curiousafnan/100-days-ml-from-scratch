@@ -54,7 +54,7 @@ Each project includes:
 | Day | Project | Core Skill | Repo |
 |-----|---------|------------|------|
 | 1 | Matrix library from scratch | Linear algebra foundations | [→ repo](https://github.com/Muh-Afnan/Linear-Algebra-Implementation) |
-| 2 | Vector transformations & eigenvectors | Geometry of linear algebra | [→ repo](#) |
+| 2 | Vector transformations & eigenvectors | Geometry of linear algebra | [→ repo](https://github.com/Muh-Afnan/Vector-Transformations) |
 | 3 | PCA from scratch using eigendecomposition | Dimensionality reduction theory | [→ repo](https://github.com/Muh-Afnan/PCA-From-Scratch) |
 | 4 | SVD from scratch + image compression demo | Matrix factorization | [→ repo](https://github.com/Muh-Afnan/Singular-Value-Decomposition) |
 | 5 | PageRank algorithm using linear algebra | Graph + linear algebra applied | [→ repo](https://github.com/Muh-Afnan/PageRank-Algorithm-Using-Linear-Algebra) |
@@ -63,11 +63,11 @@ Each project includes:
 
 | Day | Project | Core Skill | Repo |
 |-----|---------|------------|------|
-| 6 | Probability distributions simulator & visualizer | Stats foundations | [→ repo](#) |
-| 7 | Central Limit Theorem — interactive visual proof | Statistical inference | [→ repo](#) |
-| 8 | Bayesian inference engine from scratch | Bayes theorem applied | [→ repo](#) |
-| 9 | Hypothesis testing framework (t-test, chi-square) | Statistical testing | [→ repo](#) |
-| 10 | Monte Carlo simulation — Pi estimation + finance | Probabilistic thinking | [→ repo](#) |
+| 6 | Probability distributions simulator & visualizer | Stats foundations | [→ repo](https://github.com/Muh-Afnan/probability-distribution) |
+| 7 | Central Limit Theorem — interactive visual proof | Statistical inference | [→ repo](https://github.com/Muh-Afnan/Central-Limit-Theorem---Interactive-Visual-Proof) |
+| 8 | Bayesian inference engine from scratch | Bayes theorem applied | [→ repo](https://github.com/Muh-Afnan/Bayesian-Inference-Engine) |
+| 9 | Hypothesis testing framework (t-test, chi-square) | Statistical testing | [→ repo](https://github.com/Muh-Afnan/Hypothesis-Testing-Framework) |
+| 10 | Monte Carlo simulation — Pi estimation + finance | Probabilistic thinking | [→ repo](https://github.com/Muh-Afnan/Monte-Carlo-Simulation---Pi-Estimation) |
 
 ### Week 3 — Calculus & Optimization
 
