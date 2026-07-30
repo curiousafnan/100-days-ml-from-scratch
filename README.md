@@ -75,7 +75,7 @@ Each project includes:
 |-----|---------|------------|------|
 | 11 | Gradient descent visualizer (2D and 3D loss surfaces) | Optimization core | [→ repo](https://github.com/Muh-Afnan/Gradient-Descent-Visualizer) |
 | 12 | Automatic differentiation engine from scratch | Backprop foundations | [→ repo](https://github.com/Muh-Afnan/Automatic-differentiation-engine-from-scratch) |
-| 13 | Optimizers comparison — SGD, Momentum, Adam from scratch | Optimizer internals | [→ repo](https://github.com/Muh-Afnan/Automatic-differentiation-engine-from-scratch) |
+| 13 | Optimizers comparison — SGD, Momentum, Adam from scratch | Optimizer internals | [→ repo](https://github.com/Muh-Afnan/Optimizers-from-Scratch-SGD-Momentum-Adam) |
 | 14 | Convexity & loss landscape explorer | Loss function geometry | [→ repo](https://github.com/Muh-Afnan/Convexity-Loss-Landscape-Explorer) |
 | 15 | Newton's method vs gradient descent — visual comparison | Second order optimization | [→ repo](https://github.com/Muh-Afnan/Newton-s-Method-vs-Gradient-Descent) |
 
