@@ -87,7 +87,7 @@ Each project includes:
 
 | Day | Project | Core Skill | Repo |
 |-----|---------|------------|------|
-| 16 | Linear regression from scratch with full math derivation | Regression | [→ repo](#) |
+| 16 | Linear regression from scratch with full math derivation | Regression | [→ repo](https://github.com/Muh-Afnan/Linear-Regression-from-Scratch) |
 | 17 | Logistic regression + decision boundary visualizer | Classification | [→ repo](#) |
 | 18 | Decision tree from scratch (ID3/Gini) | Tree-based models | [→ repo](#) |
 | 19 | K-Means clustering from scratch + convergence visualizer | Unsupervised learning | [→ repo](#) |
