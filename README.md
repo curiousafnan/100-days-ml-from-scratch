@@ -91,7 +91,7 @@ Each project includes:
 | 17 | Logistic regression + decision boundary visualizer | Classification | [→ repo](https://github.com/Muh-Afnan/Logistic-Regression-Decision-Boundary-Visualizer) |
 | 18 | Decision tree from scratch (ID3/Gini) | Tree-based models | [→ repo](https://github.com/Muh-Afnan/Decision-Tree-from-Scratch-ID3-Gini-.git) |
 | 19 | K-Means clustering from scratch + convergence visualizer | Unsupervised learning | [→ repo](https://github.com/Muh-Afnan/K-Means-Clustering-from-Scratch-Convergence-Visualizer.git) |
-| 20 | Naive Bayes classifier from scratch on text data | Probabilistic classifiers | [→ repo](#) |
+| 20 | Naive Bayes classifier from scratch on text data | Probabilistic classifiers | [→ repo](https://github.com/Muh-Afnan/Naive-Bayes-Classifier-from-Scratch-on-Text-Data) |
 
 ### Week 5 — Advanced Classical ML
 
