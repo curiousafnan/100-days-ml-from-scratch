@@ -29,9 +29,9 @@ Each project includes:
 | Week 1 | Linear Algebra | Days 1–5 | ✅ Complete |
 | Week 2 | Probability & Statistics | Days 6–10 | ✅ Complete |
 | Week 3 | Calculus & Optimization | Days 11–15 | ✅ Complete |
-| Week 4 | Classical ML from Scratch | Days 16–20 | 🔄 In Progress |
+| Week 4 | Classical ML from Scratch | Days 16–20 | ✅ Complete |
 | **Month 2** | **Advanced ML & Deep Learning** | | |
-| Week 5 | Advanced Classical ML | Days 21–25 | 🔲 Upcoming |
+| Week 5 | Advanced Classical ML | Days 21–25 | ✅ Complete |
 | Week 6 | Neural Networks from Scratch | Days 26–30 | 🔲 Upcoming |
 | Week 7 | Deep Learning with PyTorch | Days 31–35 | 🔲 Upcoming |
 | Week 8 | Sequence Models & Embeddings | Days 36–40 | 🔲 Upcoming |
@@ -40,6 +40,7 @@ Each project includes:
 | Week 10 | ML Engineering & Pipelines | Days 46–50 | 🔲 Upcoming |
 | Week 11 | Modern AI Engineering | Days 51–55 | 🔲 Upcoming |
 | Week 12 | Paper Reimplementations | Days 56–60 | 🔲 Upcoming |
+| **Month 4** | **AI Engineering & Systems** | | |
 | Week 13 | DSA Applied to AI/ML | Days 61–65 | 🔲 Upcoming |
 | Week 14 | System Design for ML | Days 66–70 | 🔲 Upcoming |
 | Week 15 | Specialization Deep Dives | Days 71–75 | 🔲 Upcoming |
@@ -97,11 +98,11 @@ Each project includes:
 
 | Day | Project | Core Skill | Repo |
 |-----|---------|------------|------|
-| 21 | Random Forest from scratch (bagging + feature importance) | Ensemble methods | [→ repo](#) |
-| 22 | SVM from scratch with kernel trick visualized | Margin classifiers | [→ repo](#) |
-| 23 | Gradient boosting from scratch (XGBoost concepts) | Boosting internals | [→ repo](#) |
-| 24 | KNN from scratch + KD-tree optimization | Distance-based learning | [→ repo](#) |
-| 25 | Gaussian Mixture Models + EM algorithm | Probabilistic clustering | [→ repo](#) |
+| 21 | Random Forest from scratch (bagging + feature importance) | Ensemble methods | [→ repo](https://github.com/Muh-Afnan/Random-Forest-from-Scratch-Bagging-Feature-Importance-) |
+| 22 | SVM from scratch with kernel trick visualized | Margin classifiers | [→ repo](https://github.com/Muh-Afnan/SVM-from-Scratch-with-Kernel-Trick-Visualized) |
+| 23 | Gradient boosting from scratch (XGBoost concepts) | Boosting internals | [→ repo](https://github.com/Muh-Afnan/Gradient-Boosting-from-Scratch-XGBoost-Concepts-) |
+| 24 | KNN from scratch + KD-tree optimization | Distance-based learning | [→ repo](https://github.com/Muh-Afnan/KNN-from-Scratch-KD-Tree-Optimization) |
+| 25 | Gaussian Mixture Models + EM algorithm | Probabilistic clustering | [→ repo](https://github.com/Muh-Afnan/Gaussian-Mixture-Models-EM-Algorithm) |
 
 ### Week 6 — Neural Networks from Scratch
 
