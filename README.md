@@ -32,9 +32,9 @@ Each project includes:
 | Week 4 | Classical ML from Scratch | Days 16–20 | ✅ Complete |
 | **Month 2** | **Advanced ML & Deep Learning** | | |
 | Week 5 | Advanced Classical ML | Days 21–25 | ✅ Complete |
-| Week 6 | Neural Networks from Scratch | Days 26–30 | 🔲 Upcoming |
-| Week 7 | Deep Learning with PyTorch | Days 31–35 | 🔲 Upcoming |
-| Week 8 | Sequence Models & Embeddings | Days 36–40 | 🔲 Upcoming |
+| Week 6 | Neural Networks from Scratch | Days 26–30 | ✅ Complete |
+| Week 7 | Deep Learning with PyTorch | Days 31–35 | ✅ Complete |
+| Week 8 | Sequence Models & Embeddings | Days 36–40 | ✅ Complete |
 | **Month 3** | **AI Engineering & Systems** | | |
 | Week 9 | Transformers & Modern Architectures | Days 41–45 | 🔲 Upcoming |
 | Week 10 | ML Engineering & Pipelines | Days 46–50 | 🔲 Upcoming |
@@ -54,31 +54,31 @@ Each project includes:
 
 | Day | Project | Core Skill | Repo |
 |-----|---------|------------|------|
-| 1 | Matrix library from scratch | Linear algebra foundations | [→ repo](https://github.com/Muh-Afnan/Linear-Algebra-Implementation) |
-| 2 | Vector transformations & eigenvectors | Geometry of linear algebra | [→ repo](https://github.com/Muh-Afnan/Vector-Transformations) |
-| 3 | PCA from scratch using eigendecomposition | Dimensionality reduction theory | [→ repo](https://github.com/Muh-Afnan/PCA-From-Scratch) |
-| 4 | SVD from scratch + image compression demo | Matrix factorization | [→ repo](https://github.com/Muh-Afnan/Singular-Value-Decomposition) |
-| 5 | PageRank algorithm using linear algebra | Graph + linear algebra applied | [→ repo](https://github.com/Muh-Afnan/PageRank-Algorithm-Using-Linear-Algebra) |
+| 1 | Matrix library from scratch | Linear algebra foundations | [→ repo](https://github.com/curiousafnan/Linear-Algebra-Implementation) |
+| 2 | Vector transformations & eigenvectors | Geometry of linear algebra | [→ repo](https://github.com/curiousafnan/Vector-Transformations) |
+| 3 | PCA from scratch using eigendecomposition | Dimensionality reduction theory | [→ repo](https://github.com/curiousafnan/PCA-From-Scratch) |
+| 4 | SVD from scratch + image compression demo | Matrix factorization | [→ repo](https://github.com/curiousafnan/Singular-Value-Decomposition) |
+| 5 | PageRank algorithm using linear algebra | Graph + linear algebra applied | [→ repo](https://github.com/curiousafnan/PageRank-Algorithm-Using-Linear-Algebra) |
 
 ### Week 2 — Probability & Statistics
 
 | Day | Project | Core Skill | Repo |
 |-----|---------|------------|------|
-| 6 | Probability distributions simulator & visualizer | Stats foundations | [→ repo](https://github.com/Muh-Afnan/probability-distribution) |
-| 7 | Central Limit Theorem — interactive visual proof | Statistical inference | [→ repo](https://github.com/Muh-Afnan/Central-Limit-Theorem---Interactive-Visual-Proof) |
-| 8 | Bayesian inference engine from scratch | Bayes theorem applied | [→ repo](https://github.com/Muh-Afnan/Bayesian-Inference-Engine) |
-| 9 | Hypothesis testing framework (t-test, chi-square) | Statistical testing | [→ repo](https://github.com/Muh-Afnan/Hypothesis-Testing-Framework) |
-| 10 | Monte Carlo simulation — Pi estimation + finance | Probabilistic thinking | [→ repo](https://github.com/Muh-Afnan/Monte-Carlo-Simulation---Pi-Estimation) |
+| 6 | Probability distributions simulator & visualizer | Stats foundations | [→ repo](https://github.com/curiousafnan/probability-distribution) |
+| 7 | Central Limit Theorem — interactive visual proof | Statistical inference | [→ repo](https://github.com/curiousafnan/Central-Limit-Theorem---Interactive-Visual-Proof) |
+| 8 | Bayesian inference engine from scratch | Bayes theorem applied | [→ repo](https://github.com/curiousafnan/Bayesian-Inference-Engine) |
+| 9 | Hypothesis testing framework (t-test, chi-square) | Statistical testing | [→ repo](https://github.com/curiousafnan/Hypothesis-Testing-Framework) |
+| 10 | Monte Carlo simulation — Pi estimation + finance | Probabilistic thinking | [→ repo](https://github.com/curiousafnan/Monte-Carlo-Simulation---Pi-Estimation) |
 
 ### Week 3 — Calculus & Optimization
 
 | Day | Project | Core Skill | Repo |
 |-----|---------|------------|------|
-| 11 | Gradient descent visualizer (2D and 3D loss surfaces) | Optimization core | [→ repo](https://github.com/Muh-Afnan/Gradient-Descent-Visualizer) |
-| 12 | Automatic differentiation engine from scratch | Backprop foundations | [→ repo](https://github.com/Muh-Afnan/Automatic-differentiation-engine-from-scratch) |
-| 13 | Optimizers comparison — SGD, Momentum, Adam from scratch | Optimizer internals | [→ repo](https://github.com/Muh-Afnan/Optimizers-from-Scratch-SGD-Momentum-Adam) |
-| 14 | Convexity & loss landscape explorer | Loss function geometry | [→ repo](https://github.com/Muh-Afnan/Convexity-Loss-Landscape-Explorer) |
-| 15 | Newton's method vs gradient descent — visual comparison | Second order optimization | [→ repo](https://github.com/Muh-Afnan/Newton-s-Method-vs-Gradient-Descent) |
+| 11 | Gradient descent visualizer (2D and 3D loss surfaces) | Optimization core | [→ repo](https://github.com/curiousafnan/Gradient-Descent-Visualizer) |
+| 12 | Automatic differentiation engine from scratch | Backprop foundations | [→ repo](https://github.com/curiousafnan/Automatic-differentiation-engine-from-scratch) |
+| 13 | Optimizers comparison — SGD, Momentum, Adam from scratch | Optimizer internals | [→ repo](https://github.com/curiousafnan/Optimizers-from-Scratch-SGD-Momentum-Adam) |
+| 14 | Convexity & loss landscape explorer | Loss function geometry | [→ repo](https://github.com/curiousafnan/Convexity-Loss-Landscape-Explorer) |
+| 15 | Newton's method vs gradient descent — visual comparison | Second order optimization | [→ repo](https://github.com/curiousafnan/Newton-s-Method-vs-Gradient-Descent) |
 
 ---
 
@@ -88,51 +88,51 @@ Each project includes:
 
 | Day | Project | Core Skill | Repo |
 |-----|---------|------------|------|
-| 16 | Linear regression from scratch with full math derivation | Regression | [→ repo](https://github.com/Muh-Afnan/Linear-Regression-from-Scratch) |
-| 17 | Logistic regression + decision boundary visualizer | Classification | [→ repo](https://github.com/Muh-Afnan/Logistic-Regression-Decision-Boundary-Visualizer) |
-| 18 | Decision tree from scratch (ID3/Gini) | Tree-based models | [→ repo](https://github.com/Muh-Afnan/Decision-Tree-from-Scratch-ID3-Gini-.git) |
-| 19 | K-Means clustering from scratch + convergence visualizer | Unsupervised learning | [→ repo](https://github.com/Muh-Afnan/K-Means-Clustering-from-Scratch-Convergence-Visualizer.git) |
-| 20 | Naive Bayes classifier from scratch on text data | Probabilistic classifiers | [→ repo](https://github.com/Muh-Afnan/Naive-Bayes-Classifier-from-Scratch-on-Text-Data) |
+| 16 | Linear regression from scratch with full math derivation | Regression | [→ repo](https://github.com/curiousafnan/Linear-Regression-from-Scratch) |
+| 17 | Logistic regression + decision boundary visualizer | Classification | [→ repo](https://github.com/curiousafnan/Logistic-Regression-Decision-Boundary-Visualizer) |
+| 18 | Decision tree from scratch (ID3/Gini) | Tree-based models | [→ repo](https://github.com/curiousafnan/Decision-Tree-from-Scratch-ID3-Gini-.git) |
+| 19 | K-Means clustering from scratch + convergence visualizer | Unsupervised learning | [→ repo](https://github.com/curiousafnan/K-Means-Clustering-from-Scratch-Convergence-Visualizer.git) |
+| 20 | Naive Bayes classifier from scratch on text data | Probabilistic classifiers | [→ repo](https://github.com/curiousafnan/Naive-Bayes-Classifier-from-Scratch-on-Text-Data) |
 
 ### Week 5 — Advanced Classical ML
 
 | Day | Project | Core Skill | Repo |
 |-----|---------|------------|------|
-| 21 | Random Forest from scratch (bagging + feature importance) | Ensemble methods | [→ repo](https://github.com/Muh-Afnan/Random-Forest-from-Scratch-Bagging-Feature-Importance-) |
-| 22 | SVM from scratch with kernel trick visualized | Margin classifiers | [→ repo](https://github.com/Muh-Afnan/SVM-from-Scratch-with-Kernel-Trick-Visualized) |
-| 23 | Gradient boosting from scratch (XGBoost concepts) | Boosting internals | [→ repo](https://github.com/Muh-Afnan/Gradient-Boosting-from-Scratch-XGBoost-Concepts-) |
-| 24 | KNN from scratch + KD-tree optimization | Distance-based learning | [→ repo](https://github.com/Muh-Afnan/KNN-from-Scratch-KD-Tree-Optimization) |
-| 25 | Gaussian Mixture Models + EM algorithm | Probabilistic clustering | [→ repo](https://github.com/Muh-Afnan/Gaussian-Mixture-Models-EM-Algorithm) |
+| 21 | Random Forest from scratch (bagging + feature importance) | Ensemble methods | [→ repo](https://github.com/curiousafnan/Random-Forest-from-Scratch-Bagging-Feature-Importance-) |
+| 22 | SVM from scratch with kernel trick visualized | Margin classifiers | [→ repo](https://github.com/curiousafnan/SVM-from-Scratch-with-Kernel-Trick-Visualized) |
+| 23 | Gradient boosting from scratch (XGBoost concepts) | Boosting internals | [→ repo](https://github.com/curiousafnan/Gradient-Boosting-from-Scratch-XGBoost-Concepts-) |
+| 24 | KNN from scratch + KD-tree optimization | Distance-based learning | [→ repo](https://github.com/curiousafnan/KNN-from-Scratch-KD-Tree-Optimization) |
+| 25 | Gaussian Mixture Models + EM algorithm | Probabilistic clustering | [→ repo](https://github.com/curiousafnan/Gaussian-Mixture-Models-EM-Algorithm) |
 
 ### Week 6 — Neural Networks from Scratch
 
 | Day | Project | Core Skill | Repo |
 |-----|---------|------------|------|
-| 26 | Single neuron — perceptron from scratch | Neural foundations | [→ repo](#) |
-| 27 | Multi-layer neural network from scratch (numpy only) | Forward pass | [→ repo](#) |
-| 28 | Backpropagation from scratch with visual computation graph | Backprop deeply | [→ repo](#) |
-| 29 | Activation functions deep dive — implement + compare all | Non-linearities | [→ repo](#) |
-| 30 | Weight initialization strategies — why it matters visually | Training stability | [→ repo](#) |
+| 26 | Single neuron — perceptron from scratch | Neural foundations | [→ repo](https://github.com/curiousafnan/Single-neuron-perceptron-from-scratch) |
+| 27 | Multi-layer neural network from scratch (numpy only) | Forward pass | [→ repo](https://github.com/curiousafnan/Multi-Layer-Perceptron) |
+| 28 | Backpropagation from scratch with visual computation graph | Backprop deeply | [→ repo](https://github.com/curiousafnan/Backpropagation-From-Scratch) |
+| 29 | Activation functions deep dive — implement + compare all | Non-linearities | [→ repo](https://github.com/curiousafnan/Activation-functions-deep-dive) |
+| 30 | Weight initialization strategies — why it matters visually | Training stability | [→ repo](https://github.com/curiousafnan/Weight-Initialization-Techniques.git) |
 
 ### Week 7 — Deep Learning with PyTorch
 
 | Day | Project | Core Skill | Repo |
 |-----|---------|------------|------|
-| 31 | PyTorch from scratch mindset — rebuild Week 6 in PyTorch | Framework literacy | [→ repo](#) |
-| 32 | CNN from scratch in PyTorch on CIFAR-10 | Computer vision basics | [→ repo](#) |
-| 33 | BatchNorm, Dropout, Regularization — ablation study | Training techniques | [→ repo](#) |
-| 34 | Learning rate schedulers — visual comparison project | LR tuning | [→ repo](#) |
-| 35 | Custom Dataset + DataLoader pipeline in PyTorch | ML engineering | [→ repo](#) |
+| 31 | PyTorch from scratch mindset — rebuild Week 6 in PyTorch | Framework literacy | [→ repo](https://github.com/curiousafnan/PyTorch-from-Scratch-Mindset) |
+| 32 | CNN from scratch in PyTorch on CIFAR-10 | Computer vision basics | [→ repo](https://github.com/curiousafnan/CNN-on-CIFAR-10) |
+| 33 | BatchNorm, Dropout, Regularization — ablation study | Training techniques | [→ repo](https://github.com/curiousafnan/Implement-Batch-Norm-Dropout-and-L2-Regularization) |
+| 34 | Learning rate schedulers — visual comparison project | LR tuning | [→ repo](https://github.com/curiousafnan/Learning-Rate-Schedulers) |
+| 35 | Custom Dataset + DataLoader pipeline in PyTorch | ML engineering | [→ repo](https://github.com/curiousafnan/Custom-Dataset-DataLoader) |
 
 ### Week 8 — Sequence Models & Embeddings
 
 | Day | Project | Core Skill | Repo |
 |-----|---------|------------|------|
-| 36 | Word2Vec from scratch (Skip-gram + CBOW) | Word embeddings | [→ repo](#) |
-| 37 | RNN from scratch — character-level language model | Sequence modelling | [→ repo](#) |
-| 38 | LSTM from scratch — long range dependency demo | Gating mechanisms | [→ repo](#) |
-| 39 | Attention mechanism from scratch — visual walkthrough | Attention internals | [→ repo](#) |
-| 40 | Positional encoding deep dive — why and how | Transformer building block | [→ repo](#) |
+| 36 | Word2Vec from scratch (Skip-gram + CBOW) | Word embeddings | [→ repo](https://github.com/curiousafnan/Word2Vec-Skip-gram-CBOW-) |
+| 37 | RNN from scratch — character-level language model | Sequence modelling | [→ repo](https://github.com/curiousafnan/RNN-character-level-language-model) |
+| 38 | LSTM from scratch — long range dependency demo | Gating mechanisms | [→ repo](https://github.com/curiousafnan/LSTM-Long-range-dependency) |
+| 39 | Attention mechanism from scratch — visual walkthrough | Attention internals | [→ repo](https://github.com/curiousafnan/Attention-Mechanism) |
+| 40 | Positional encoding deep dive — why and how | Transformer building block | [→ repo](https://github.com/curiousafnan/Positional-encoding) |
 
 ---
 
@@ -244,6 +244,6 @@ Every library I use professionally, I've rebuilt. That's the standard.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-afnan-3272a2218)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/m.r_afnan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Muh-Afnan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/curiousafnan)
 
 *For the curious people. Always open.*
