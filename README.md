@@ -144,8 +144,8 @@ Each project includes:
 |-----|---------|------------|------|
 | 41 | Self-attention from scratch with visualization | Transformer core | [→ repo](https://github.com/curiousafnan/Self-Attention) |
 | 42 | Multi-head attention from scratch | Parallel attention | [→ repo](https://github.com/curiousafnan/Multi-Head-Attention.git) |
-| 43 | Transformer encoder from scratch (BERT-style) | Encoder architecture | [→ repo](#) |
-| 44 | Transformer decoder from scratch (GPT-style) | Decoder architecture | [→ repo](#) |
+| 43 | Transformer encoder from scratch (BERT-style) | Encoder architecture | [→ repo](https://github.com/curiousafnan/Attention-is-All-You-Need.git) |
+| 44 | Transformer decoder from scratch (GPT-style) | Decoder architecture | [→ repo](https://github.com/curiousafnan/Attention-is-All-You-Need.git) |
 | 45 | Mini GPT — train a tiny language model from scratch | Full transformer | [→ repo](#) |
 
 ### Week 10 — ML Engineering & Pipelines
