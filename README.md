@@ -142,7 +142,7 @@ Each project includes:
 
 | Day | Project | Core Skill | Repo |
 |-----|---------|------------|------|
-| 41 | Self-attention from scratch with visualization | Transformer core | [→ repo](#) |
+| 41 | Self-attention from scratch with visualization | Transformer core | [→ repo](https://github.com/curiousafnan/Self-Attention) |
 | 42 | Multi-head attention from scratch | Parallel attention | [→ repo](#) |
 | 43 | Transformer encoder from scratch (BERT-style) | Encoder architecture | [→ repo](#) |
 | 44 | Transformer decoder from scratch (GPT-style) | Decoder architecture | [→ repo](#) |
